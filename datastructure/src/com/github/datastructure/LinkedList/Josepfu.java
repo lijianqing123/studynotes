@@ -9,7 +9,7 @@ public class Josepfu {
 
     public static void main(String[] args) {
         CircleSingleLinkList circleSingleLinkList = new CircleSingleLinkList();
-        circleSingleLinkList.create(25);
+        circleSingleLinkList.create(5);
         circleSingleLinkList.show();
         circleSingleLinkList.pop(1,2);
     }
